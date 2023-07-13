@@ -6,6 +6,10 @@
   <h1>Hey I'm Saidqodirxon Rahimov</h1>
 </div>
 
+<div align="center">
+  <h2>I'm Mern Steck Developer </h1>
+</div>
+
 <div id="header" align="center">
 <div id="badges">
   <a href="https://t.me/Saidqodirxonuz">
