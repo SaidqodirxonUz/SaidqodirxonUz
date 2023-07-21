@@ -3,11 +3,11 @@
 </div>
 
 <div id="header" align="center">
-  <h1>Hey I'm Saidqodirxon Rahimov</h1>
+  <h1>ℍ𝕖𝕪 𝕀'𝕞 𝓢𝓪𝓲𝓭𝓺𝓸𝓭𝓲𝓻𝔁𝓸𝓷 𝓡𝓪𝓱𝓲𝓶𝓸𝓿 </h1>
 </div>
 
 <div align="center">
-  <h2>I'm Mern Steck Developer </h1>
+  <h2>𝕀‘𝕞 𝕄𝕖𝕣𝕟 𝕊𝕥𝕖𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 👨‍💻 </h1>
 </div>
 
 <div id="header" align="center">
